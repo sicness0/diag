@@ -1,0 +1,10 @@
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\bin\Debug\BVSC Diagnostics.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSCDiagnostics.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSCDiagnostics.MainForm.resources
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSCDiagnostics.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSCDiagnostics.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\bin\Debug\BVSC Diagnostics.exe
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\bin\Debug\BVSC Diagnostics.pdb
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSC Diagnostics.exe
+c:\users\matt\documents\visual studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\obj\Debug\BVSC Diagnostics.pdb
+C:\Users\matt\Documents\Visual Studio 2015\Projects\BVSCDiagnostics\BVSCDiagnostics\bin\Debug\router.jpg
