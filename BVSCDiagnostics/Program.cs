@@ -18,5 +18,6 @@ namespace BVSCDiagnostics
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
         }
+	/// Added test comment
     }
 }
